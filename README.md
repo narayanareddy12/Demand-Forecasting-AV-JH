@@ -10,7 +10,7 @@ However, no other information regarding stores and products are available. Can y
 
 
 
-Data Description
+**Data Description**
 
 
 
@@ -52,6 +52,6 @@ units_sold
 
 
 
-Evaluation Metric;
+**Evaluation Metric;**
 The evaluation metric for this competition is 100*RMSLE (Root Mean Squared Log Error).
 
